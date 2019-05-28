@@ -20,12 +20,10 @@ html {
 	background-size: cover;
 }
 
-
 /* Body Styles */
 body {
-	background-color: rgba(255,255,255,0.25);
+	background-color: rgba(255,255,255,0.3);
 }
-
 
 /* Body Header Styles */
 body > header {
